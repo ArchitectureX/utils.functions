@@ -1,7 +1,5 @@
-# @architecturex/utils.string
+# @architecturex/utils.functions
 
 ### Installation
 
-`npm install @architecturex/utils.string`
-
-# Usage
+`npm install @architecturex/utils.functions`
